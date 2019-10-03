@@ -1,4 +1,4 @@
-# SQLLibraryProject
+# SQL Library Project
 
 FINAL PROJECT - LIBRARY MANAGEMENT SYSTEM
 *IMPORTANT: Be sure to send your instructor your database/table creation code, INSERT statements and final query statements for a pass:
