@@ -1,11 +1,15 @@
 # SQL Library Project
 
-SQL COURSE FINAL PROJECT - LIBRARY MANAGEMENT SYSTEM
+## SQL COURSE FINAL PROJECT - LIBRARY MANAGEMENT SYSTEM
+
+### The Assignment:
+
 USING MS SQL SERVER, CREATE A DATABASE AND SCHEMA AS DEPICTED IN THE FOLLOWING DIAGRAM:
 
 ![Library Schema](https://github.com/allisonhill00/pictures/blob/master/Coursework%20Resources/dbLibrarySchema.png)
 
 YOU MAY CHOOSE YOUR OWN DATA TO POPULATE YOUR TABLES AS LONG AS YOUR DATABASE ENSURES THAT THE FOLLOWING CONDITIONS ARE TRUE:
+
 There is a book called 'The Lost Tribe' found in the 'Sharpstown' branch.
 
 There is a library branch called 'Sharpstown' and one called 'Central'.
