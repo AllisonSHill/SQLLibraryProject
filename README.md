@@ -2,6 +2,8 @@
 
 ## SQL Course Final Project - Library Management System
 
+[View the Code](https://github.com/AllisonSHill/SQLLibraryProject/blob/master/LibraryAssignment2.sql)
+
 ### The Assignment:
 
 USING MS SQL SERVER, CREATE A DATABASE AND SCHEMA AS DEPICTED IN THE FOLLOWING DIAGRAM:
