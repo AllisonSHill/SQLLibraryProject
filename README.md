@@ -1,8 +1,7 @@
 # SQL Library Project
 
-FINAL PROJECT - LIBRARY MANAGEMENT SYSTEM
-*IMPORTANT: Be sure to send your instructor your database/table creation code, INSERT statements and final query statements for a pass:
-USING MS SQL SERVER 2014 EXPRESS, CREATE A DATABASE AND SCHEMA AS DEPICTED IN THE FOLLOWING DIAGRAM:
+SQL COURSE FINAL PROJECT - LIBRARY MANAGEMENT SYSTEM
+USING MS SQL SERVER, CREATE A DATABASE AND SCHEMA AS DEPICTED IN THE FOLLOWING DIAGRAM:
 
 ![Library Schema](https://github.com/allisonhill00/pictures/blob/master/Coursework%20Resources/dbLibrarySchema.png)
 
@@ -26,6 +25,7 @@ There are at least 50 loans in the BOOK_LOANS table.
 There must be at least two books written by 'Stephen King' located at the 'Central' branch.
 
 CREATE STORED PROCEDURES THAT WILL QUERY FOR EACH OF THE FOLLOWING QUESTIONS:
+
 1.) How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"?
 
 2.) How many copies of the book titled "The Lost Tribe" are owned by each library branch?
