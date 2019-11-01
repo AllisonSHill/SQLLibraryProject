@@ -1,6 +1,6 @@
 # SQL Library Project
 
-## SQL COURSE FINAL PROJECT - LIBRARY MANAGEMENT SYSTEM
+## SQL Course Final Project - Library Management System
 
 ### The Assignment:
 
